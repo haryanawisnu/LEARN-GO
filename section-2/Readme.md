@@ -31,5 +31,7 @@ for index, item := range slice {
 ```
 
 struct  = structure data
+
 class = struct + method
+
 interface = method
